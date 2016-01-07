@@ -8,7 +8,7 @@ http://scn.sap.com/community/businessobjects-design-studio/blog/2015/09/21/your-
 
 
 
-The Part 2 instructions are in four steps and are here: 
+The Part 3 instructions are in four steps and are here: 
 
 http://scn.sap.com/community/businessobjects-design-studio/blog/2015/10/20/your-first-extension-part-3a--your-first-steps-with-d3
 
